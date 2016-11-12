@@ -1,10 +1,10 @@
 body{ background-image: url("lblue005.jpg"); }
 
-p{ color: black; font-style: normal; font-family: "Times New Roman"; }
+p{ color: black; font-style: normal; font-family: Geneva; font-size:13pt; }
 
-h1{ color: black; font-style: normal; text-align: center; font-family: Arial; }
+h1{ color: black; font-style: normal; text-align: center; font-family: Arial; font-size:24pt; }
 
-h2{color: white; font-size:12pt; font-family: "Times New Roman"; }
+h2{color: white; font-size:12pt; font-family: "Comic Sans MS"; }
 
 a:link {color: purple;}
 a:visited {color: green;}
