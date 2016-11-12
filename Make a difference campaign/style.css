@@ -1,0 +1,11 @@
+body{ background-image: url("lblue005.jpg"); }
+
+p{ color: black; font-style: normal; font-family: "Times New Roman"; }
+
+h1{ color: black; font-style: normal; text-align: center; font-family: Arial; }
+
+h2{color: white; font-size:12pt; font-family: "Times New Roman"; }
+
+a:link {color: purple;}
+a:visited {color: green;}
+a:hover {color: yellow;}
