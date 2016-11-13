@@ -1,11 +1,13 @@
 body{ background-image: url("lblue005.jpg"); }
 
-p{ color: black; font-style: normal; font-family: Geneva; font-size:13pt; }
+p{ color: black; font-style: normal; font-family: Helvetica; font-size:13pt; }
 
-h1{ color: black; font-style: normal; text-align: center; font-family: Arial; font-size:24pt; }
+h1{ color: black; font-style: normal; text-align: center; font-family: Arial; font-size:26pt; }
 
-h2{color: white; font-size:12pt; font-family: "Comic Sans MS"; }
+h2{ color: black; font-style: normal; text-align: center; font-family: Copperplate; font-size:18pt; }
 
-a:link {color: purple;}
-a:visited {color: green;}
-a:hover {color: yellow;}
+h3{color: white; font-size:12pt; font-family: "Comic Sans MS"; }
+
+a:link {color: navy;}
+a:visited {color: purple;}
+a:hover {color: white;}
