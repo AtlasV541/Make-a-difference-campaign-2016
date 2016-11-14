@@ -1,4 +1,4 @@
-body{ background-image: url("lblue005.jpg"); }
+body{ background-image: url("lblue005.gif"); }
 
 p{ color: black; font-style: normal; font-family: Helvetica; font-size:13pt; }
 
@@ -7,6 +7,8 @@ h1{ color: black; font-style: normal; text-align: center; font-family: Arial; fo
 h2{ color: black; font-style: normal; text-align: center; font-family: Copperplate; font-size:18pt; }
 
 h3{color: white; font-size:12pt; font-family: "Comic Sans MS"; }
+
+h4{color: black; font-size:17pt; font-family: Impact; }
 
 a:link {color: navy;}
 a:visited {color: purple;}
