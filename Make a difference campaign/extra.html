@@ -1,8 +1,14 @@
 <html>
 
 <head>
+<title>Extra! Extra! Extra!</title>
 <link href="style.css" rel="stylesheet" type="text/css">
-
+<script>
+function changeBGImage(whichImage) {
+document.body.style.backgroundImage = "url(" + whichImage + ")";
+window.alert("HAPPY BIRTHDAY! We at HM Debate know that birthdays are extremely special occasions for everyone, so we sent this custom birthday message just for you!");
+}
+</script>
 </head>
 
 <body>
@@ -15,9 +21,13 @@
 
 
 
-
+<form>
+<center><input type = "button" name = "button1" value = "Happy Birthday!" onclick = "changeBGImage('multi085.gif')"></center> 
+</form>
 <br>
 <center><h4>Click on the red button to go back to the home page</h4>
 <a href = "index.html"><img src = "redbutton.gif" width = "75" height = "75"></a></center>
+<center><h4>Click on the blue button to go back to the previous page</h4>
+<a href = "about.html"><img src = "bluebutton.gif" width = "75" height = "75"></a></center>
 </body>
 </html>

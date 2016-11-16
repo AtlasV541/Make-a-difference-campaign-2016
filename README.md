@@ -10,4 +10,6 @@ Important note: There are two files that will not be needed for submission of th
 <li> This file (README.md) </li>
 <li> test.html because this file will solely be used for testing of components designed to be integrated into the website. </li>
 </ol>
-There are two duplicate folders aside from the main "Make a difference campaign" (which contains all the code) that contain items that were uploaded after the original folder intended to be uploaded was created. When you download the entire repository as a .zip, make sure to merge the contents of the duplicate folders into the original folder. 
+When you download the entire repository as a .zip, make sure to delete the file called "README.md". The folder left over (it should be called "Make a difference campaign") contains the entire project. 
+<br>
+Enjoy!
