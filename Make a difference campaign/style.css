@@ -1,16 +1,18 @@
-body{ background-image: url("lblue005.gif"); }
+body{ background-image: url("ss023.gif"); }
 
-p{ color: black; font-style: normal; font-family: Helvetica; font-size:13pt; }
+p{ color: black; font-style: normal; font-family: "Arial", sans-serif; font-size:13pt; }
 
-h1{ color: black; font-style: normal; text-align: center; font-family: Arial; font-size:26pt; }
+h1{ color: black; font-style: normal; text-align: center; font-family: Helvetica; font-size:26pt; }
 
 h2{ color: black; font-style: normal; text-align: center; font-family: Copperplate; font-size:18pt; }
 
-h3{color: white; font-size:12pt; font-family: "Comic Sans MS"; }
+h3{color: black; font-size:12pt; font-family: "Comic Sans MS"; }
 
 h4{color: black; font-size:17pt; font-family: Impact; }
 
-h5{color: 383838; font-size:15pt; font-family: Optima; }
+h5{color: black; font-size:15pt; font-family: Optima; }
+
+h6{color: black; font-size:15pt; font-family: Papyrus; }
 
 a:link {color: navy;}
 a:visited {color: purple;}
