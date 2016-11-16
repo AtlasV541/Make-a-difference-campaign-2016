@@ -10,6 +10,6 @@ Important note: There are two files that will not be needed for submission of th
 <li> This file (README.md) </li>
 <li> test.html because this file will solely be used for testing of components designed to be integrated into the website. </li>
 </ol>
-When you download the entire repository as a .zip, make sure to delete the file called "README.md". The folder left over (it should be called "Make a difference campaign") contains the entire project. 
+When you download the entire repository as a .zip, make sure to delete the files called "README.md" and "test.html". The folder left over (it should be called "Make a difference campaign") contains the entire project. 
 <br>
 Enjoy!
